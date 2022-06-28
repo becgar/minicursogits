@@ -1,0 +1,2 @@
+# minicursogits
+Repositório do git
